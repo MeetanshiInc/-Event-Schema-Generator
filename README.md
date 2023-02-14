@@ -3,7 +3,7 @@
 
 The ***Event Schema Generator*** allows users to input information about an event, such as the name, location, date, and time, and generates a schema markup that can be added to the website's HTML code. This schema markup provides search engines with additional information about the event, which can lead to better visibility and higher search rankings.
 
-##Benefit’s of using Meetanshi’s  Event Schema Generator:
+## Benefit’s of using Meetanshi’s  Event Schema Generator:
 
 *  By providing search engines with structured data about the event, the Event Schema Generator can help improve the visibility of the event in search results.
 
